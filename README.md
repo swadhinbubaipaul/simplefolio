@@ -1,3 +1,3 @@
 Simplefolio
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3546445c-fe67-4c46-991a-db0b1a796fbf/deploy-status)](https://app.netlify.com/sites/swadhin/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4ad2fb93-790b-40ae-acd6-a503a2b72453/deploy-status)](https://app.netlify.com/sites/swadhin/deploys)
